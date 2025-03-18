@@ -8,7 +8,7 @@ I have learned to program since 2017, starting from industrial with PLC and Ardu
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [mmiglierina.epizy.com](http://mmiglierina.epizy.com/)
-* 🚀  I'm currently working on [Nomade Makerspace](http://nomademakerspace.com/)
+* 🚀  I'm currently working on [Nomade Makerspace](https://nomademakerspace.com/)
 * 🧠  I'm learning Artificial Intelligence
 * ⚡  Work hard Play harder
 <!-- * 🤝  I'm open to collaborating on anything that needs programming -->
